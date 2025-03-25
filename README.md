@@ -11,8 +11,8 @@ The 'Weather'column has around 50 unique values which are Fog', 'Freezing Drizzl
 ✔️ Performance metrics (MSE, RMSE, MAE)
 ✔️ Visualization of predictions vs actual values
 
-📊 Technologies Used
+📊 Technologies Used : 
 Python,TensorFlow,NumPy, Pandas,Matplotlib, Seaborn
 
-📈 Results
+📈 Results : 
 The LSTM model predicts future weather conditions with reasonable accuracy. Further improvements can be made by fine-tuning hyperparameters and increasing dataset size.
